@@ -48,3 +48,14 @@ MIT — copy the method, ship it yourself. [Telegram](https://t.me/AxelFreeman) 
 - Free tools (test planner, kill-rule calculator, 23-point AEO checklist):
   https://axelfreeman.github.io/marketing-mindset/tools/
 - `npx -y marketing-mindset aeo --json` — the same checklist as a CLI, published on npm.
+
+
+## Chapter 6 — Distribution with no budget
+
+`06-distribution-with-no-budget.md` — the rule (ship only what leaves a permanent trace in a place you
+already have access to), what ships where, the mechanics that are easy to get wrong (sitemap + IndexNow
+in the same commit, canonical set in the publish call, verification as a stranger, archives), and the
+failure modes. Live artifacts with openable links:
+[proof page](https://axelfreeman.com/proof.html) ·
+[offer page](https://axelfreeman.com/marketing-engineer.html) ·
+[npm CLI](https://www.npmjs.com/package/marketing-mindset).
