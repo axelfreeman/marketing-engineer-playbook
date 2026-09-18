@@ -32,3 +32,19 @@ packages: **Sprint $900** one-time, **Engine $1,900/month**, **Full build $2,900
 ## License
 
 MIT — copy the method, ship it yourself. [Telegram](https://t.me/AxelFreeman) if you would rather have it built.
+
+## Chapter 5 — measurement and kill rules
+
+- [5. Measurement and kill rules](05-measurement-and-kill-rules.md) — sample size before the test, the Wilson
+  interval, the rule of three, and the four lines of a kill rule written in advance.
+
+## Artefacts you can open right now
+
+- Offer and packages: https://axelfreeman.com/marketing-engineer.html ($900 sprint / $1,900 month / $2,900 full build)
+- What each package buys, and the honest comparison: https://axelfreeman.com/marketing-engineer-cost.html
+- Growth engineer for hire — the role, and the test that separates an engineer from a marketer:
+  https://axelfreeman.com/growth-engineer-for-hire.html
+- Every artifact of this campaign with a live link: https://axelfreeman.com/proof.html
+- Free tools (test planner, kill-rule calculator, 23-point AEO checklist):
+  https://axelfreeman.github.io/marketing-mindset/tools/
+- `npx -y marketing-mindset aeo --json` — the same checklist as a CLI, published on npm.
