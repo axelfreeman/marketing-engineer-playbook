@@ -70,5 +70,6 @@ executed on your segment, with the list, the first touches and the measurement:
 
 - [Engagement, scope and the public price list](https://axelfreeman.com/marketing-engineer.html)
 - [What actually ships in a done-for-you engagement](https://axelfreeman.com/done-for-you-lead-generation.html)
-- [B2B data enrichment — 6,955 domains, 45 sources, 1,040 published addresses](https://axelfreeman.com/b2b-data-enrichment-service.html)
+- [The $900 outbound pilot — fourteen days, day by day, before you pay](https://axelfreeman.com/outbound-pilot.html)
+- [B2B data enrichment — 7,641 domains, 48 sources, 1,355 published addresses](https://axelfreeman.com/b2b-data-enrichment-service.html)
 - [Proof — every artifact with a live link](https://axelfreeman.com/proof.html)
